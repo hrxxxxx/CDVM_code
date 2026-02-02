@@ -85,7 +85,13 @@ Cross-Class Setting(textures-to-objects):
 
 If you find this repository useful, please consider citing our work:
 ```
-@article{}
+@article{CDVM,
+      title={Causality-Inspired Dual-branch ViT-based Masking for Unsupervised Industrial Anomaly Detection}, 
+      author={Rongxin Huang and Guangfeng Lin and Zhirong Li},
+      year={2026},
+      journal={IEEE Transactions on Industrial Informatics},
+      note={Submitted for publication},
+      primaryClass={cs.CV}}
 }
 ```
 
