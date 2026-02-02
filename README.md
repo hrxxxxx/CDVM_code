@@ -62,22 +62,22 @@ Cross-Class Setting(objects-to-textures):
 
 | Category | Image/Pixel AUC | 
 |:------------:|:--------:|
-| Carpet | 0.994/0.978 | 
-| Grid | 0.968/0.933 | 
-| Leather | 1.000/0.983 | 
-| Tile | 0.998/0.947 | 
-| Wood | 0.997/0.965 | 
-| Mean | 0.992/0.961 |
+| Carpet | 0.996/0.976 | 
+| Grid | 0.979/0.935 | 
+| Leather | 1.000/0.985 | 
+| Tile | 1.000/0.939 | 
+| Wood | 0.960/0.887 | 
+| Mean | 0.987/0.945 |
 ---
 Cross-Class Setting(textures-to-objects):
 
 | Category | Image/Pixel AUC | Category | Image/Pixel AUC |
 |:----------:|:-----:|:-----:|:-------:|
-| Bottle | 0.998/0.968 | Pill | 0.762/0.901 |
-| Cable | 0.961/0.950 | Screw | 0.671/0.947 |
-| Capsule | 0.981/0.965 | Toothbrush | 0.872/0.967 |
-| Hazelnut | 0.995/0.945 | Transistor | 0.963/0.919 |
-| Metal nut | 0.988/0.876 | Zipper | 0.945/0.941 |
+| Bottle | 1.000/0.950 | Pill | 0.839/0.871 |
+| Cable | 0.950/0.950 | Screw | 0.631/0.949 |
+| Capsule | 0.731/0.953 | Toothbrush | 0.847/0.962 |
+| Hazelnut | 1.000/0.962 | Transistor | 0.962/0.863 |
+| Metal nut | 0.971/0.844 | Zipper | 0.947/0.947 |
 | Mean | 0.927/0.940 | 
 ---
 
