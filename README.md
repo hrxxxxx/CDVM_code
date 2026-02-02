@@ -1,4 +1,4 @@
-# [Causality-Inspired Dual-branch ViT-based Masking for Unsupervised Industrial Anomaly Detection]
+# Causality-Inspired Dual-branch ViT-based Masking for Unsupervised Industrial Anomaly Detection
 
 
 
