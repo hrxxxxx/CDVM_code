@@ -41,7 +41,6 @@ For cross-class setting objects-to-textures, please set ``--from_obj_to_texture`
 Run code for testing MVTecAD dataset.
 ```
 bash scripts/test_cross_class.sh  // testing for cross_class setting
-bash scripts/test_cross_class.sh  // testing for cross_class setting
 ```
 
 
