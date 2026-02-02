@@ -78,7 +78,7 @@ Cross-Class Setting(textures-to-objects):
 | Capsule | 0.731/0.953 | Toothbrush | 0.847/0.962 |
 | Hazelnut | 1.000/0.962 | Transistor | 0.962/0.863 |
 | Metal nut | 0.971/0.844 | Zipper | 0.947/0.947 |
-| Mean | 0.927/0.940 | 
+| Mean | 0.888/0.925 | 
 ---
 
 ## Citation
