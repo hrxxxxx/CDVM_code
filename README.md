@@ -24,7 +24,7 @@ Download MVTecAD dataset from [there](https://www.mvtec.com/de/unternehmen/forsc
 ```
 python setup_train_dataset.py --data_path /path/to/dataset
 ```
-This script will create a ImageNet format dataset for training at the ``/Mvtec-ImageNet`` directory.
+This script will create a ImageNet format dataset for training at the ``/Mvtec-ImageNet`` directory.Then please download [foreground masks](https://huggingface.co/xcyao00/PMAD/blob/main/fg_mask.zip), and put it to the directory ``data/Mvtec-ImageNet/fg_mask``.
 
 ## Training
 
