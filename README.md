@@ -11,7 +11,7 @@ Download checkpoints that are **self-supervised pretrained** on ImageNet-22k:
 
 Download pretrained visual tokenizer(discrite VAE) from: [encoder](https://cdn.openai.com/dall-e/encoder.pkl), [decoder](https://cdn.openai.com/dall-e/encoder.pkl), and put them to the directory ``weights/tokenizer``.
 
-Download pretrained protoflow from: [there]([https://huggingface.co/hrxxxxx/CDVM/tree/main]), and put it to the directory ``weights/protoflow``.
+Download pretrained protoflow from: [there](https://huggingface.co/hrxxxxx/CDVM/tree/main), and put it to the directory ``weights/protoflow``.
 
 
 ## Setup
