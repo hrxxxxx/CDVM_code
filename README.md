@@ -88,7 +88,7 @@ If you find this repository useful, please consider citing our work:
       title={Causality-Inspired Dual-branch ViT-based Masking for Unsupervised Industrial Anomaly Detection}, 
       author={Rongxin Huang and Guangfeng Lin and Zhirong Li},
       year={2026},
-      journal={IEEE Transactions on Industrial Informatics},
+      journal={IEEE Transactions on Instrumentation and Measurement},
       note={Submitted for publication},
       primaryClass={cs.CV}}
 }
