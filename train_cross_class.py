@@ -56,7 +56,7 @@ def get_args():
     # Dataset parameters
     parser.add_argument('--data_path', default='./data/Mvtec-ImageNet/train', type=str,
                         help='dataset path')
-    parser.add_argument('--batch_size', default=1, type=int)
+    parser.add_argument('--batch_size', default=4, type=int)
     parser.add_argument('--imagenet_default_mean_and_std', default=True, action='store_true')
     
     parser.add_argument('--mask_ratio', default=0.3, type=float,
